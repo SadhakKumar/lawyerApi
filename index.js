@@ -39,6 +39,16 @@ app.get('/lawyer/enrollment/:enrollmentNumber', (req, res) => {
     res.json({ result: 'Lawyer found by enrollment number', lawyers: foundLawyers });
 });
 
+// app.post('/lawyer/add',(req,res) =>{
+//     let lawyer = {
+//         "name": "Dipanshu Ghime",
+//         "enrollmentNumber": "73461",
+//         "specialization": "Corporate Law"
+//     }
+
+//     lawyersData.push(lawyer);
+// })
+
 // Start the server
 app.listen(port, () => {
     console.log(`Server is running on port ${port}`);
