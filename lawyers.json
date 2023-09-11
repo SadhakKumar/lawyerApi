@@ -1,0 +1,227 @@
+[
+    {
+        "name": "John Doe",
+        "enrollmentNumber": "12345",
+        "specialization": "Criminal Law"
+    },
+    {
+        "name": "Jane Smith",
+        "enrollmentNumber": "67890",
+        "specialization": "Family Law"
+    },
+    {
+        "name": "David Johnson",
+        "enrollmentNumber": "54321",
+        "specialization": "Corporate Law"
+    },
+    {
+        "name": "Emily Davis",
+        "enrollmentNumber": "98765",
+        "specialization": "Environmental Law"
+    },
+    {
+        "name": "Michael Wilson",
+        "enrollmentNumber": "24680",
+        "specialization": "Intellectual Property Law"
+    },
+    {
+        "name": "Sarah Lee",
+        "enrollmentNumber": "13579",
+        "specialization": "Immigration Law"
+    },
+    {
+        "name": "Robert Brown",
+        "enrollmentNumber": "11111",
+        "specialization": "Real Estate Law"
+    },
+    {
+        "name": "Jennifer Anderson",
+        "enrollmentNumber": "22222",
+        "specialization": "Family Law"
+    },
+    {
+        "name": "William Jackson",
+        "enrollmentNumber": "33333",
+        "specialization": "Criminal Law"
+    },
+    {
+        "name": "Mary White",
+        "enrollmentNumber": "44444",
+        "specialization": "Personal Injury Law"
+    },
+    {
+        "name": "Richard Wilson",
+        "enrollmentNumber": "55555",
+        "specialization": "Corporate Law"
+    },
+    {
+        "name": "Linda Harris",
+        "enrollmentNumber": "66666",
+        "specialization": "Employment Law"
+    },
+    {
+        "name": "Charles Martinez",
+        "enrollmentNumber": "77777",
+        "specialization": "Environmental Law"
+    },
+    {
+        "name": "Patricia Thomas",
+        "enrollmentNumber": "88888",
+        "specialization": "Intellectual Property Law"
+    },
+    {
+        "name": "Thomas Lee",
+        "enrollmentNumber": "99999",
+        "specialization": "Immigration Law"
+    },
+    {
+        "name": "Susan Johnson",
+        "enrollmentNumber": "12121",
+        "specialization": "Real Estate Law"
+    },
+    {
+        "name": "Daniel Davis",
+        "enrollmentNumber": "23232",
+        "specialization": "Criminal Law"
+    },
+    {
+        "name": "Karen Wilson",
+        "enrollmentNumber": "34343",
+        "specialization": "Family Law"
+    },
+    {
+        "name": "Christopher Lee",
+        "enrollmentNumber": "45454",
+        "specialization": "Personal Injury Law"
+    },
+    {
+        "name": "Nancy Smith",
+        "enrollmentNumber": "56565",
+        "specialization": "Corporate Law"
+    },
+    {
+        "name": "Paula Brown",
+        "enrollmentNumber": "67676",
+        "specialization": "Employment Law"
+    },
+    {
+        "name": "Joseph Davis",
+        "enrollmentNumber": "78787",
+        "specialization": "Environmental Law"
+    },
+    {
+        "name": "Amanda Harris",
+        "enrollmentNumber": "89898",
+        "specialization": "Intellectual Property Law"
+    },
+    {
+        "name": "Matthew Thomas",
+        "enrollmentNumber": "23234",
+        "specialization": "Immigration Law"
+    },
+    {
+        "name": "Elizabeth Johnson",
+        "enrollmentNumber": "45456",
+        "specialization": "Real Estate Law"
+    },
+    {
+        "name": "Michael Smith",
+        "enrollmentNumber": "67678",
+        "specialization": "Criminal Law"
+    },
+    {
+        "name": "Jessica Wilson",
+        "enrollmentNumber": "89890",
+        "specialization": "Family Law"
+    },
+    {
+        "name": "Andrew Lee",
+        "enrollmentNumber": "12123",
+        "specialization": "Personal Injury Law"
+    },
+    {
+        "name": "Megan Davis",
+        "enrollmentNumber": "34345",
+        "specialization": "Corporate Law"
+    },
+    {
+        "name": "David Johnson",
+        "enrollmentNumber": "56567",
+        "specialization": "Employment Law"
+    },
+    {
+        "name": "Jennifer Brown",
+        "enrollmentNumber": "78789",
+        "specialization": "Environmental Law"
+    },
+    {
+        "name": "Robert Wilson",
+        "enrollmentNumber": "21212",
+        "specialization": "Intellectual Property Law"
+    },
+    {
+        "name": "Karen Harris",
+        "enrollmentNumber": "34343",
+        "specialization": "Immigration Law"
+    },
+    {
+        "name": "Lisa Davis",
+        "enrollmentNumber": "56565",
+        "specialization": "Real Estate Law"
+    },
+    {
+        "name": "John Smith",
+        "enrollmentNumber": "78787",
+        "specialization": "Criminal Law"
+    },
+    {
+        "name": "Emily Lee",
+        "enrollmentNumber": "89898",
+        "specialization": "Family Law"
+    },
+    {
+        "name": "William Thomas",
+        "enrollmentNumber": "23234",
+        "specialization": "Personal Injury Law"
+    },
+    {
+        "name": "Linda Johnson",
+        "enrollmentNumber": "45456",
+        "specialization": "Corporate Law"
+    },
+    {
+        "name": "Charles Brown",
+        "enrollmentNumber": "67678",
+        "specialization": "Employment Law"
+    },
+    {
+        "name": "Nancy Davis",
+        "enrollmentNumber": "89890",
+        "specialization": "Environmental Law"
+    },
+    {
+        "name": "Amanda Wilson",
+        "enrollmentNumber": "12123",
+        "specialization": "Intellectual Property Law"
+    },
+    {
+        "name": "Daniel Harris",
+        "enrollmentNumber": "34345",
+        "specialization": "Immigration Law"
+    },
+    {
+        "name": "Jennifer Smith",
+        "enrollmentNumber": "56567",
+        "specialization": "Real Estate Law"
+    },
+    {
+        "name": "Christopher Davis",
+        "enrollmentNumber": "78789",
+        "specialization": "Criminal Law"
+    },
+    {
+        "name": "Paula Lee",
+        "enrollmentNumber": "21212",
+        "specialization": "Family Law"
+    }
+]
